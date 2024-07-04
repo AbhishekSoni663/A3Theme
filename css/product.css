@@ -1311,7 +1311,7 @@ a.fcolr {
   background-color: var(--background-fiftynine);
 }
 .two-select select{
-  background-color: var(--background-fourtytwo) !important;
+  background-color: var(--background-fiftynine) !important;
   color: var(--color-whitesmoke);
 }
 .first-select , .first-select2{
